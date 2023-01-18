@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbuyukplevne&label=Profile%20views&color=0e75b6&style=flat" alt="mbuyukplevne" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbuyukplevne" alt="mbuyukplevne" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/m_buyukplevne" target="blank"><img src="https://img.shields.io/twitter/follow/m_buyukplevne?logo=twitter&style=for-the-badge" alt="m_buyukplevne" /></a> </p>
 
 - 🌱 I’m currently learning **Swift Programming Languages**
