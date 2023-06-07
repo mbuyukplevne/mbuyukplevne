@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_buyukplevne" target="blank"><img src="https://img.shields.io/twitter/follow/m_buyukplevne?logo=twitter&style=for-the-badge" alt="m_buyukplevne" /></a> </p>
 
-- 🌱 I’m currently learning **Swift Programming Languages**
+- 🌱 I’m currently working on **Swift Programming Languages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mbuyukplevne](https://github.com/mbuyukplevne)
 
